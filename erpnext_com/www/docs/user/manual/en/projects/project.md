@@ -1,17 +1,17 @@
 <!-- add-breadcrumbs -->
 # Project Management
 
-The project is an individual or collaborative enterprise, possibly involving research or design, that is carefully planned, usually by a project team, to achieve a particular aim
+A project is a temporary endeavor undertaken to create a unique product, service or result.  It is temporary because it has a defined beginning and expected timeframe. 
 
-In ERPNext, Project management in is Task driven. You can a create Project and divide into multiple and assignable Tasks.
+In ERPNext, Project Management is Task driven. You can a create a Project and divide it into multiple and assignable Tasks.
 
 <img class="screenshot" alt="Project" src="{{docs_base_url}}/assets/img/project/project-1.1.png">
 
 ### Managing Tasks
 
-The project is generally has a broader scope, and hence not assignable to an individual. Hence, you can divide the Project into multiple Tasks. These can be assigned to an individual and tracked better. 
+A project generally has a broader scope that would not be completely assigned to one individual. Projects are divided into multiple Tasks which can be assigned to an individual and easily tracked. 
 
-These Tasks can be created from a Project itself or a [Task](/docs/user/manual/en/projects/tasks.html) can be created separately as well.
+Tasks can be created from within a Project directly or a [Task](/docs/user/manual/en/projects/tasks.html) can be created separately as well.
 
 <img class="screenshot" alt="Project" src="{{docs_base_url}}/assets/img/project/project-1.png">
 
