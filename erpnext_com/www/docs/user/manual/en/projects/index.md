@@ -1,8 +1,7 @@
 <!-- add-breadcrumbs -->
 # Projects
 
-A services business, which doesn't have a tangible product to showcase their value needs to get many things right in order to stay afloat and grow in the industry. ERPNext helps services company effectively manage business aspects like projects management, customer support, sales, and purchase management to list a few. You can look at the following topics after going through this [introduction](/docs/user/manual/en/projects/introduction).
-
+Businesses utilize project management to effectively create products, services or results.  ERPNext allows companies to manage customer support, sales, purchasing, manufacturing and product development to name just a few project example types.  Here is an overview [introduction](/docs/user/manual/en/projects/introduction) to Project Management in ERPNext.
 
 ## 1. Topics
 ##### 1.1 Project Management
